@@ -1,0 +1,16 @@
+# Quartz build output and dependencies (if Quartz is cloned inside this repo)
+quartz/public/
+quartz/.quartz-cache/
+node_modules/
+
+# Python
+scripts/__pycache__/
+*.pyc
+
+# OS / editor cruft
+.DS_Store
+.obsidian/workspace*
+.obsidian/cache
+
+# Mount/debug leftovers
+*_mount_test.txt

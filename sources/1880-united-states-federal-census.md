@@ -1,0 +1,136 @@
+---
+id: 1880-united-states-federal-census
+type: source
+title: 1880 United States Federal Census
+date: 
+source_type: census
+reliability: medium
+people:
+  - anglemyer-solomon-1815
+  - anglemyer-william-c1860
+  - badger-lavenia-1830
+  - blackwell-edith-1838
+  - breedlove-annie-c1867
+  - breedlove-dorah-c1868
+  - breedlove-edgor-1876
+  - breedlove-henry-1841
+  - breedlove-iverson-c1872
+  - breedlove-johnie-c1871
+  - breedlove-maggie-c1878
+  - breedlove-tomie-c1879
+  - bridge-levi-1816
+  - bridge-levi-c1854
+  - bridge-sarah-c1846
+  - collins-alonzo-1879
+  - collins-annie-c1876
+  - collins-charles-c1864
+  - collins-eddie-c1874
+  - collins-edward-c1830
+  - collins-eliza-c1870
+  - collins-emiline-c1871
+  - collins-henry-1870
+  - collins-john-1877
+  - collins-pleasant-c1840
+  - davis-josephine-1852
+  - evans-laura-c1851
+  - evans-laura-c1851-2
+  - fort-martha-1828
+  - frost-albert-1866
+  - frost-elizabeth-c1849
+  - frost-john-1822
+  - frost-lilly-1870
+  - gwyn-ella-1875
+  - gwyn-isabella-c1858
+  - gwyn-julius-1865
+  - gwyn-samuel-c1869
+  - gwyn-thomas-1866
+  - gwynn-james-1867
+  - gwynn-sr-james-1835
+  - gwynn-victoria-1843
+  - gwynn-willis-c1862
+  - hines-rebecca-c1814
+  - jones-evan-c1850-2
+  - kelley-eva-1870
+  - kelley-eva-c1872
+  - kelley-josephine-c1853
+  - kelley-lavinia-c1832
+  - kelley-richard-c1828
+  - lamb-daniel-c1868
+  - lamb-daniel-c1868-2
+  - lamb-john-1872
+  - lamb-john-1872-2
+  - lamb-jordan-c1807
+  - lamb-jordan-c1807-2
+  - lamb-lazarus-c1879
+  - lamb-lewis-1880
+  - lamb-lillie-c1875
+  - lamb-lily-1875
+  - lecato-littleton-c1813
+  - mims-adolphus-1861
+  - mims-adolphus-1861-2
+  - mims-mary-c1841
+  - peacock-elizabeth-c1842
+  - quinlan-catherine-c1879
+  - quinlan-claude-c1873
+  - quinlan-edward-c1859
+  - quinlan-harry-c1871
+  - quinlan-joseph-1836
+  - quinlan-joseph-c1862
+  - quinlan-marshall-c1875
+  - quinlan-percy-c1865
+  - quinlan-susan-1837
+  - quinlan-william-c1868
+  - shaw-charles-c1857
+  - shaw-marvil-1877
+  - shaw-mary-c1859
+  - shepard-ann-c1868
+  - shepard-annie-c1868
+  - shepard-david-c1874
+  - shepard-david-c1874-2
+  - shepard-john-c1866
+  - shepard-marcus-1832
+  - shepard-marcus-c1861
+  - shepard-marcus-c1862
+  - shepard-mary-c1877
+  - shepard-mary-c1877-2
+  - shepard-robert-c1869
+  - shepard-robert-c1869-2
+  - smith-anglemyer-catherine-1823
+  - taylar-charles-c1860
+  - taylar-sarah-c1863
+  - taylor-mary-c1835
+  - thomas-ann-1831
+  - williams-john-c1821
+  - williams-john-c1863
+  - williams-thomas-c1868
+  - williamson-adolphus-c1870
+  - williamson-bettie-c1867
+  - williamson-eliza-1820
+  - williamson-fannie-1868
+  - williamson-hannah-c1874
+  - williamson-jennie-c1872
+  - williamson-simon-1877
+  - williamson-simon-c1829
+  - willis-linwood-c1878
+  - willis-linwood-c1878-2
+  - willis-madison-c1840
+  - willis-madison-c1847
+  - willis-maggie-c1875
+  - willis-maggie-c1875-2
+  - willis-martha-c1873
+  - willis-martha-c1873-2
+  - willis-mary-c1841
+  - willis-silva-c1871
+  - willis-silva-c1871-2
+  - willis-william-c1876
+  - willis-william-c1876-2
+repository: "@R_1694255648@"
+---
+
+# 1880 United States Federal Census
+
+## Summary
+_Imported from Ancestry._
+
+## Citation
+Ancestry.com and The Church of Jesus Christ of Latter-day Saints, Ancestry.com Operations Inc, @R_1694255648@

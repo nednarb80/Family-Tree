@@ -1,0 +1,13 @@
+---
+id: allen-co-indiana
+type: place
+name: Allen Co, Indiana, USA
+county: 
+state: 
+country: USA
+coordinates: 
+---
+
+# Allen Co, Indiana, USA
+
+Referenced by 2 record(s). Backlinks show everyone connected to this place.

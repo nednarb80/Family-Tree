@@ -1,0 +1,135 @@
+---
+id: 1900-united-states-federal-census
+type: source
+title: 1900 United States Federal Census
+date: 
+source_type: census
+reliability: medium
+people:
+  - anglemire-lucinda-1846
+  - bedgood-beulah-1878
+  - blackwell-edith-1838
+  - breedlove-earl-1898
+  - breedlove-edgor-1876
+  - breedlove-ina-1897
+  - bridge-adalbert-1880
+  - bridge-donald-1894
+  - bridge-gail-1890
+  - bridge-gertrude-1885
+  - bridge-herbert-1876
+  - bridge-maria-1842
+  - bridge-rev-1840
+  - bridge-ulysses-1867
+  - bridge-verne-1893
+  - brown-mattie-1896
+  - collins-alonzo-1879
+  - collins-eddie-c1874
+  - collins-edward-c1830
+  - collins-emma-c1869
+  - collins-henry-1870
+  - collins-henry-1899
+  - collins-ireta-1899
+  - collins-john-1877
+  - collins-mattie-1890
+  - collins-met-1851
+  - collins-ned-1887
+  - collins-richard-1892
+  - collins-samuel-1896
+  - collins-stephen-1883
+  - collins-willie-1896
+  - collins-wm-1893
+  - frost-albert-1866
+  - frost-anna-1870
+  - frost-icy-unknown
+  - gwyn-ella-1875
+  - gwyn-isabella-c1858
+  - gwyn-julius-1865
+  - gwyn-thomas-1866
+  - gwynn-albert-1892
+  - gwynn-bristow-1846
+  - gwynn-harvey-1897-2
+  - gwynn-john-1882
+  - gwynn-julius-1890
+  - gwynn-lawrence-1889-2
+  - gwynn-mary-1845
+  - gwynn-mary-1900
+  - gwynn-niels-1871
+  - gwynn-sr-james-1835
+  - gwynn-ugene-1895
+  - gwynn-victoria-1843
+  - herbert-bertha-c1889
+  - hovey-helen-1852
+  - janes-arthur-1885
+  - janes-david-1852
+  - janes-elvenah-1893
+  - janes-helen-1881
+  - jaynes-henry-1879
+  - jaynes-leila-1883
+  - jones-evan-1884
+  - jones-evan-c1850-2
+  - jones-john-1888
+  - jones-john-1888-2
+  - jones-maggie-1886
+  - jones-mary-c1899
+  - jones-nellie-1893
+  - jones-thomas-c1892-2
+  - jones-william-1896
+  - kelley-eva-1870
+  - kelley-eva-c1872
+  - lamb-john-1872
+  - lamb-john-1872-2
+  - lamb-lillie-c1875
+  - lamb-lily-1875
+  - lamb-raymond-1895
+  - lamb-raymond-1895-2
+  - lewis-anna-1873
+  - lewis-cornelia-1884
+  - lewis-david-1893
+  - lewis-frank-1873
+  - lewis-george-1888
+  - lewis-james-1886
+  - lewis-remsen-1885
+  - mimes-thomas-1895
+  - mims-ada-1882
+  - mims-adolphus-1861
+  - mims-jimmie-1886
+  - mims-john-1892
+  - mims-lizzie-1890
+  - mims-martha-1887
+  - mims-maryland-1899
+  - mims-willie-1884
+  - saddler-hanna-1865
+  - shepard-salina-1863
+  - smith-anglemyer-catherine-1823
+  - smythe-leslie-1884
+  - taylor-arline-1886
+  - taylor-georgie-c1899
+  - taylor-herbert-1894
+  - taylor-hugh-1891
+  - taylor-leo-1894
+  - taylor-lester-1888
+  - taylor-otto-1885
+  - taylor-robert-1882
+  - taylor-robert-c1850
+  - thomas-ann-1831
+  - wells-lindy-1879
+  - whittenberger-rosannah-c1869
+  - wilis-nancy-1819
+  - williams-hannah-c1861
+  - williams-john-c1863
+  - williams-thomas-c1868
+  - williamson-eliza-1820
+  - williamson-fannie-1868
+  - williamson-simon-1877
+  - wilson-william-1873
+  - wilson-william-1873-2
+repository: "@R_1694255648@"
+---
+
+# 1900 United States Federal Census
+
+## Summary
+_Imported from Ancestry._
+
+## Citation
+Ancestry.com, Ancestry.com Operations Inc, @R_1694255648@
